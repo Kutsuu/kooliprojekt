@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(204, 0, 255);
+    color: white;
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+p{
+    font-size: large;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+.lol {
+    height: auto;
+    width: 100%;
+    background-color: red;
+    color: antiquewhite;
+    font-size: 10vh;
+}
